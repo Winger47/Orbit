@@ -47,10 +47,10 @@ The tracker exists to give agents identity, work units, context and a place to r
 | Field | Value |
 |---|---|
 | Active phase | **P0 — Foundations** |
-| Active ticket | T-001 |
-| Completed tickets | — |
+| Active ticket | T-002 |
+| Completed tickets | T-001 |
 | Open ADRs | ADR-0001 (Python backend), ADR-0002 (Tenancy via RLS) |
-| Last updated | 2026-09-29 |
+| Last updated | 2026-09-30 |
 
 ---
 
